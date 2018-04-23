@@ -4,7 +4,8 @@
   "description": "POSITIVE PARENTING AND RESPONSIPLE CHILDHOOD",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lwasampijja Lawrence",
   "license": "ISC",
@@ -13,5 +14,10 @@
     "express": "^4.16.3",
     "hogan-express": "^0.5.2",
     "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/LWASALAW/poparc.git"
   }
 }
