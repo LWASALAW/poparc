@@ -1,0 +1,17 @@
+{
+  "name": "popac",
+  "version": "1.0.0",
+  "description": "POSITIVE PARENTING AND RESPONSIPLE CHILDHOOD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lwasampijja Lawrence",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "hogan-express": "^0.5.2",
+    "path": "^0.12.7"
+  }
+}
